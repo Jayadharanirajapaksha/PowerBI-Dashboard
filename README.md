@@ -41,3 +41,5 @@ https://www.kaggle.com/datasets/wrucebaynebot/hr-dataset?select=HR+Dataset.xlsx
 
    This dataset is available on Kaggale:
 https://www.kaggle.com/datasets/mattop/fifa-womens-world-cup-stats
+
+All the files are inside the "power_bi_projects folder"
