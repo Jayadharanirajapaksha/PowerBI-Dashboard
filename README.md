@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/wrucebaynebot/hr-dataset?select=HR+Dataset.xlsx
 
 2. Power BI Dashboard using FIFA Women’s World Cup Stats from 1991 to 2019 Dataset.
 
-![FIFA_WOMEN'S_WORLDCUP.pdf](https://github.com/Jayadharanirajapaksha/PowerBI-Dashboard/files/12659365/FIFA_WOMEN.S_WORLDCUP.pdf)
+![fifa](https://github.com/Jayadharanirajapaksha/PowerBI-Dashboard/assets/116358845/6db7ccba-cd6d-419c-aa2b-d07d84ea4720)
 
    
    The dataset contains FIFA Women’s World Cup Stats from 1991 to 2019.
