@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/wrucebaynebot/hr-dataset?select=HR+Dataset.xlsx
 
    
    The dataset contains FIFA Women’s World Cup Stats from 1991 to 2019.
-   The data was collected from Sports Reference then cleaned for data analysis.
+   The data was collected from Sports Reference then cleaned for data analysis. All the files are inside the power_bi_projects folder.
    Tabular data includes:
  squad
  year
@@ -42,4 +42,4 @@ https://www.kaggle.com/datasets/wrucebaynebot/hr-dataset?select=HR+Dataset.xlsx
    This dataset is available on Kaggale:
 https://www.kaggle.com/datasets/mattop/fifa-womens-world-cup-stats
 
-All the files are inside the "power_bi_projects folder"
+
